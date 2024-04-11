@@ -41,3 +41,6 @@ li {
 h2,h3,h4,h5{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+em{
+    font-size: medium;
+}
