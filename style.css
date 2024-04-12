@@ -15,7 +15,7 @@ h1 {
     padding: 10px;
     border: 2px solid;
     font-size: small;
-    border-radius: 60;
+    border-radius: 10px;
 }
 ul {
     border-radius: 60;
@@ -25,7 +25,7 @@ ul {
 }
 ol {
     border: 5px;
-    border-radius: 60;
+    border-radius: 10px;
     padding: 10px;
     font-size: medium;
 }
